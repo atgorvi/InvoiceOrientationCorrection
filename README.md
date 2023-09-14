@@ -1,7 +1,5 @@
 # Invoice angle correction
 
-data is stored in data.zip
-
 ## Agenda
 This repository is a solution to a test task. Quote: As part of the test task, you need to solve the following problem:
 - Create a process to rotate documents to portrait orientation using an ML model that will determine the angle from -30 to 30 degrees.
