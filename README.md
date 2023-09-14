@@ -1,4 +1,4 @@
-# Invoice angle correction
+# Invoice orientation correction
 
 ## Agenda
 This repository is a solution to a test task. Quote: As part of the test task, you need to solve the following problem:
