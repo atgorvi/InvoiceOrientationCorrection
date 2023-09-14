@@ -18,7 +18,7 @@ def correct_orientation(image: np.ndarray) -> Tuple[float, np.ndarray]:
     angle = cv2.minAreaRect(coords)[-1]
 
     # Adjust the angle to be in the range [-30, 30] degrees
-    angle = -(90 + angle) if angle < -30 else -angle
+    angle = -angle if angle < 30 else 90 - angle
 
     # Get the height and width of the input image
     h, w = image.shape[:2]
