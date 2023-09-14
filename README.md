@@ -45,6 +45,7 @@ python demo.py -i data/images/0.png -s data/images/0_corrected.png
 ```
 
 ### Gradio
+![alt text](data/demo/gradio_demo.png)
 To start the gradio demo UI run:
 
 ```sh
